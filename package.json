@@ -1,0 +1,14 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "James Trail",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.1.1"
+  }
+}
