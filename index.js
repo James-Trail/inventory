@@ -39,8 +39,6 @@ function checkStock(sku) {
 
 module.exports = checkStock;
 
-checkStock("LTV719449/39/39");
-
 var args = process.argv.slice(2);
 let sku = args[0];
 if (sku) {
